@@ -128,6 +128,6 @@ The project:
 
 Vijay Tamminaina
 
-🔗 GitHub: https://github.com/
+🔗 GitHub: https://github.com/vijay-614
 
 ⭐ If you like this project, consider giving it a star!
